@@ -2,4 +2,6 @@ hello world!!
 I am MIN
 
 hello world!
->>>>>>> d91821929b9536360b5eccedaf3d5b1c909603a2
+
+hello world!!
+
